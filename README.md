@@ -1,2 +1,2 @@
 # nugi-resolusi
-Repository untuk menyimpan rencana WPU ke depan
+Repository untuk menyimpan rencana WP ke depan
