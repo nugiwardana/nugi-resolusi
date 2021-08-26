@@ -2,4 +2,4 @@ WPU resolusi
 - Bisa mengerti dasar dalam bahasa pemograman
 - Bisa membuat aplikasi berbasis web yang lebih baik
 - Bisa berkomunikasi lebih baik
-- Bisa bekerjasama lebih baik
+- Bisa membuat startup
